@@ -39,4 +39,4 @@ hello - neiL
 Hello - Ikmal Ezzani
 
 ** CONFLICT TEST **
-My name is Ikmal Ezzani.
+My name is Taufik Ezzani.
