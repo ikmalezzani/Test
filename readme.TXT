@@ -41,4 +41,4 @@ hello - neiL
 Hello - Ikmal Ezzani
 
 ** CONFLICT TEST **
-My name is Taufik. I'm writing on the same line.
+My name is Ikmal Ezzani. I'm writing on the same line.
