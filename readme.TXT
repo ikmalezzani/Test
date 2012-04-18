@@ -39,4 +39,8 @@ hello - neiL
 Hello - Ikmal Ezzani
 
 ** CONFLICT TEST **
+<<<<<<< HEAD
 My name is Ikmal Ezzani. I'm writing on the same line.
+=======
+My name is Taufik Ezzani.
+>>>>>>> 1005e8a6ac4f4d31cd589a1c742c53588e80ac44
