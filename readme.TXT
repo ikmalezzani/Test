@@ -37,3 +37,6 @@ Hello - Taufik
 Hello - Harry Saputra
 hello - neiL
 Hello - Ikmal Ezzani
+
+** CONFLICT TEST **
+My name is Ikmal Ezzani.
