@@ -43,4 +43,4 @@ Hello - Ikmal Ezzani
 ** CONFLICT TEST **
 My name is Ikmal Ezzani. I'm writing on the same line.
 
-Changes made on experimental branch
+If this changes is made on test, what happen when I stash, update master and merge to this?
