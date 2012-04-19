@@ -46,3 +46,5 @@ My name is Ikmal Ezzani. I'm writing on the same line.
 If this changes is made on test, what happen when I stash, update master and merge to this?
 U cannot cherrypick a merge. 
 But I can rewrite the my last commit log now.
+
+Done reapply stashing commit
